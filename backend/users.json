@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Super Admin",
+    "email": "super@admin.com",
+    "phone": "9999999999",
+    "password": "$2a$10$7QJ8v0K0Hkz8YwC9P3Fv6O1j5FQh3X0p6ZxkY9YwH5b1J8WkR8T7K",
+    "role": "SUPER_ADMIN"
+  },
+  {
+    "name": "Admin One",
+    "email": "admin@test.com",
+    "phone": "8888888888",
+    "password": "$2a$10$7QJ8v0K0Hkz8YwC9P3Fv6O1j5FQh3X0p6ZxkY9YwH5b1J8WkR8T7K",
+    "role": "ADMIN"
+}
+]
